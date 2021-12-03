@@ -1,0 +1,2 @@
+nvcc -lglut -lGL -lGLU -o rayTracer rayTracer.cu
+
